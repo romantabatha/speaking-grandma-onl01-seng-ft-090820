@@ -14,9 +14,9 @@
 
 def speak_to_grandma(speak)
   if speak == 'I LOVE YOU GRANDMA!'
-     ''
-    elsif "speak".downcase
-    puts "HUH?! SPEAK UP, SONNY"
+     'I LOVE YOU TOO PUMPKIN!'
+    elsif speak == speak.upcase
+  
   elsif "#{I LOVE YOU GRANDMA!}"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
